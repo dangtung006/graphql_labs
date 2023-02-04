@@ -1,0 +1,28 @@
+{
+  "name": "graphql_labs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000r\u0000a\u0000p\u0000h\u0000q\u0000l\u0000_\u0000l\u0000a\u0000b\u0000s\u0000\r\u0000 \u0000",
+  "main": "test.js",
+  "scripts": {
+    "start": "node app",
+		"server": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangtung006/graphql_labs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangtung006/graphql_labs/issues"
+  },
+  "homepage": "https://github.com/dangtung006/graphql_labs#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.11.1",
+    "express": "^4.18.2",
+    "graphql": "^16.6.0",
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20"
+  }
+}
